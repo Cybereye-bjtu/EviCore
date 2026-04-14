@@ -1,0 +1,8 @@
+{
+  "comment": "可选字段；留空则使用 Cybereye4 cybereye_config 默认 SAMPLE_KB_DIR / KNOWLEDGE_LAYERS_JSON",
+  "sample_kb_dir": null,
+  "output_json": null,
+  "sync_neo4j": null,
+  "strict_samples": true,
+  "force_reextract_all": false
+}

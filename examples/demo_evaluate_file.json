@@ -1,0 +1,11 @@
+{
+  "answer_file": "/home/klzhang/cybereye4/Result_demo_xxx/CyberEyeEQAanswer.json",
+  "ground_truth_path": null,
+  "evaluator": "dmxapi",
+  "model": "gemini-2.0-flash",
+  "api_key": "",
+  "force": false,
+  "overwrite_output": false,
+  "score_direct": true,
+  "score_reasoning": true
+}

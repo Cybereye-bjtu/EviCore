@@ -1,0 +1,5 @@
+{
+  "question": "Is conveyor belt A malfunctioning?",
+  "answer": "No. Display shows low speed within manual self-test range and temperature is normal; distribution cabinet indicator is solid green per manual.",
+  "post_process": true
+}

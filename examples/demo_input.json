@@ -1,0 +1,28 @@
+{
+  "question": "Is conveyor belt A malfunctioning based on what we see?",
+  "scene_path": "/shared/usd_assets/DEMO/demo_02/scene_02/2.usd",
+  "current_region": "Assembly line work area",
+  "region_names": [
+    "Assembly line work area",
+    "Electrical room",
+    "Warehouse"
+  ],
+  "object_information": {
+    "integrated display panel": [
+      {
+        "object": "integrated display panel",
+        "region": "Assembly line work area",
+        "information": "device name: Conveyor Belt A; speed: 0.55 m/s; temperature: 42°C"
+      }
+    ],
+    "Conveyor Belt A Power Distribution Cabinet": [
+      {
+        "object": "Conveyor Belt A Power Distribution Cabinet",
+        "region": "Electrical room",
+        "information": "cabinet label verified; indicator: solid green"
+      }
+    ]
+  },
+  "use_kg": true,
+  "use_experience": true
+}

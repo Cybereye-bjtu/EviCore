@@ -1,0 +1,13 @@
+{
+  "evaluator": "dmxapi",
+  "model": "gemini-2.0-flash",
+  "api_key": "",
+  "base_url": "https://www.dmxapi.cn/v1",
+  "timeout": 120,
+  "prompt_name": "direct",
+  "prompt_kwargs": {
+    "question": "Is conveyor belt A malfunctioning?",
+    "ground_truth_direct_answer": "No, it is in planned periodic low-speed self-test.",
+    "model_direct_answer": "No, speed is low but temperature normal and cabinet green."
+  }
+}
