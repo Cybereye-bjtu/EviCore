@@ -1,6 +1,6 @@
-# Cybereye4 Wrapper — 知识增强问答与决策引擎
+#  EviCore — 知识增强问答与决策引擎
 
-本仓库是 **包装层 / 接口层**：通过 `import` 调用 Cybereye4 工程中的 **Planner1 / Planner2**、**知识图谱**、**经验抽取与检索**、**样本库建图管线**、**EQA LLM 评估**等，对外提供统一 JSON、HTTP 与 CLI。**不会、也不应**修改 Cybereye4 源码树。
+本仓库是 **包装层 / 接口层**：通过 `import` 调用 EvidencePilot 工程中的 **Planner1 / Planner2**、**知识图谱**、**经验抽取与检索**、**样本库建图管线**、**EQA LLM 评估**等，对外提供统一 JSON、HTTP 与 CLI。**不会、也不应**修改 EvidencePilot 源码树。
 
 ## 能力分层（均可编程调用）
 
