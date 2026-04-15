@@ -4,7 +4,7 @@
 
 ## 能力分层（均可编程调用）
 
-| 层级 | Python 入口 | Cybereye4 映射（只读依赖） |
+| 层级 | Python 入口 | EviCore 映射（只读依赖） |
 |------|----------------|----------------------------|
 | 决策与问答 | `solve_with_knowledge` | `Agent.llmAgent.Planner1/2`，`knowledge_graph.planner1_graph`，`knowledge_graph.experience_context` |
 | 知识建图管线 | `run_kg_pipeline` | `knowledge_graph.pipeline.run_incremental_pipeline`（样本库 → 三层 JSON → Neo4j） |
@@ -180,4 +180,4 @@ print(
 
 ## 许可证
 
-包装层以本仓库为准；Cybereye4 本体遵循其原有许可证。
+包装层以本仓库为准；EvidencePilot 本体遵循其原有许可证。
